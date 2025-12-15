@@ -1,4 +1,4 @@
-# Partnr Multi-Step Registration Form
+# Multi-Step Registration Form
 
 A fully accessible, responsive multi-step registration form built with React, Tailwind CSS, and Zustand.
 
